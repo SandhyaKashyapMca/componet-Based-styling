@@ -1,0 +1,43 @@
+
+body{
+font-family: 'Poppins', sans-serif;
+}
+
+.hero{
+background: linear-gradient(120deg,#007bff,#00c6ff);
+padding:120px 0;
+}
+
+.hero h1{
+font-weight:700;
+}
+
+.service-card{
+border:none;
+transition:0.3s;
+border-radius:10px;
+}
+
+.service-card:hover{
+transform:translateY(-10px);
+background:#f8f9fa;
+}
+
+.icon{
+font-size:40px;
+color:#007bff;
+margin-bottom:10px;
+}
+
+.project-card{
+border:none;
+transition:0.3s;
+}
+
+.project-card:hover{
+transform:scale(1.05);
+}
+
+footer{
+font-size:14px;
+}
