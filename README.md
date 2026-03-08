@@ -1,1 +1,1 @@
-# componet-Based-styling
+# component-Based-styling
